@@ -1,3 +1,5 @@
 My name is David. I was born in Bogotá. I like pizza :)
 I'm adding another two sentences because that's the instructions I got.
 Also, I find GIT quite interesting. I hope I'll be familiar with it very soon.
+
+Greetings! Fantastic four group! I hope you're having fun learning about Git and GitHub. Personally, I have understood very little, but hopefully that will change in the next few weeks :)

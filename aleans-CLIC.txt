@@ -1,1 +1,3 @@
 My name is David. I was born in Bogotá. I like pizza :)
+I'm adding another two sentences because that's the instructions I got.
+Also, I find GIT quite interesting. I hope I'll be familiar with it very soon.
